@@ -1,0 +1,16 @@
+{
+  "incomes": [
+    {
+      "id": 1,
+      "name": "gaji",
+      "total": 400000
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "name": "bayar listrik",
+      "total": 20000
+    }
+  ]
+}
