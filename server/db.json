@@ -1,16 +1,26 @@
 {
   "incomes": [
     {
-      "id": 1,
+      "id": "1",
       "name": "gaji",
       "total": 400000
+    },
+    {
+      "id": "3b04",
+      "name": "freelance",
+      "total": 50000
     }
   ],
   "expenses": [
     {
-      "id": 1,
+      "id": "1",
       "name": "bayar listrik",
       "total": 20000
+    },
+    {
+      "id": "a214",
+      "name": "investasi leher keatas",
+      "total": 150000
     }
   ]
 }

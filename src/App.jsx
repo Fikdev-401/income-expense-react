@@ -43,11 +43,11 @@ function App() {
             <Col md={6}>
               <Col md={12}>
                 <h4 className="mt-3">Income</h4>
-                <IncomeTable income={income} />
+                <IncomeTable income={income} refresh={getIncomeAndExpense} />
               </Col>
               <Col md={12}>
                 <h4>Expense</h4>
-                <ExpenseTable expense={expense} />
+                <ExpenseTable expense={expense} refresh={getIncomeAndExpense} />
               </Col>
             </Col>
           </Row>
